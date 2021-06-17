@@ -25,7 +25,7 @@ public class WhoActivity extends AppCompatActivity {
         buyerButton.setOnClickListener(v -> startActivity(new Intent(WhoActivity.this, MainActivity.class)));
 
         driverButton.setOnClickListener(v -> {
-//                startActivity(new Intent(WhoActivity.this, .class));
+//                startActivity(new Intent(WhoActivity.this, .class)); 
         });
 
     }
