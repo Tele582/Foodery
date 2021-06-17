@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "363890857407",
+    "project_id": "final-year-food-delivery",
+    "storage_bucket": "final-year-food-delivery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363890857407:android:2bce85ddef023e95047d0a",
+        "android_client_info": {
+          "package_name": "com.Foodery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363890857407-g87amc27voqnad42uv01rl66u8on3c8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM2rtbUZmgmkz7PI6se5Zl4xLPDpTHx1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363890857407-g87amc27voqnad42uv01rl66u8on3c8u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363890857407:android:8ec21178b835fdca047d0a",
+        "android_client_info": {
+          "package_name": "fun.flexpad.fooddeliveryfinalyear"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363890857407-g87amc27voqnad42uv01rl66u8on3c8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM2rtbUZmgmkz7PI6se5Zl4xLPDpTHx1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363890857407-g87amc27voqnad42uv01rl66u8on3c8u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
